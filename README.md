@@ -2,12 +2,14 @@ README (English)
 
 
 -Hello, I'm @RogerHackerOffice
+
 -👀 I'm interested in... 
 - games, firmwares, console systems,
 - reverse engineering, IT, computing,
 - emulation, arduino, 3D printing,
 - consoles, robotics and their structures, etc. -
 -I'm currently learning... basic electronics.
+
 -I'm looking to collaborate on... games and consoles.
 - get in touch with me...
 - Curiosity: in everything...
@@ -20,6 +22,7 @@ leia me (portugues)
 
 
 -Olá, eu sou @RogerHackerOffice 
+
 -👀 Estou interessado em ... 
 - jogos, firmwares, sistemas de console,
 - engenharia reversa, TI, computação,
