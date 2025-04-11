@@ -18,7 +18,7 @@ README (English)
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-leia me (portugues)
+LEIA ME (Portugues)
 
 
 -Olá, eu sou @RogerHackerOffice 
